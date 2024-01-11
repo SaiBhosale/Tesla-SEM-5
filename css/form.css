@@ -1,0 +1,13 @@
+#form{
+    background-image: url("../renders/01.jpg");
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    padding: -10px;
+}
+
+p{
+    color: rgb(211, 207, 207);
+    text-decoration-style: dashed;
+    text-decoration: #e31717;
+}

@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.explore{
+    text-align: center;
+    position: absolute;
+    margin: auto;
+    width: 100%;
+}
+
+div.explore{
+    margin-top: 35%;
+}
+
+.explore a{
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+
+    background-color: rgba(0, 0, 0, 0.9);
+    border-radius: 6px;
+    padding: 14px 30px;
+}
+
+.explore a:hover{
+    background-color: #fff;
+    color: red;
+    border: 8px rgba(0, 0, 0);
+    border-radius: 6px;
+}
+
+.explore h1{
+    text-align: center;
+    display: -ms-flexbox;
+    padding-bottom: 20px;
+    color: #fff;
+    font-family: "Copperplate Gothic Bold";
+    font-size: 35px;
+}
